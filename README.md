@@ -14,6 +14,15 @@ create a new README.md file,ctrl +s
 .git add .
 .git commit -m 'message'
 
+#Regular Process
+.git add .
+.git commit-m 'message'
+.git push
+
 #Supplementary: other instruction of modify file
 .git reset --soft HEAD~ #回到上一動/canceling commit
 .git reset --hard [version.nunber]
+.git diff [version.number] -- [filename]
+.git checkout [version.num] -- [filename]
+
+#DB Browsser for SQLite
