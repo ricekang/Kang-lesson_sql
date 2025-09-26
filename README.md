@@ -16,7 +16,7 @@ create a new README.md file,ctrl +s
 
 #Regular Process
 .git add .
-.git commit-m 'message'
+.git commit -m 'message'
 .git push
 
 #Supplementary: other instruction of modify file
@@ -25,4 +25,4 @@ create a new README.md file,ctrl +s
 .git diff [version.number] -- [filename]
 .git checkout [version.num] -- [filename]
 
-#DB Browsser for SQLite
+#DB Browser for SQLite
